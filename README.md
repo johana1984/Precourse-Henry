@@ -1,2 +1,1 @@
-# Precourse-Henry
-este es un repositorio del numero 2
+Prueba de como crear un  repositorio y clonarlo desde Github a mi computadora
